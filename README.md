@@ -2,6 +2,8 @@
 
 Happy Prompt is a unique tool designed to interject positive emotions into text prompts, allowing users to communicate joyful, uplifting, and enthusiastic expressions. It utilizes a series of cheerful emojis, symbols, and text representations to infuse the text with a sense of happiness, love, dancing, partying, and other upbeat themes.
 
+Try it live: https://milosilo.com/happy-prompt/
+
 ### 1. Install the Happy Prompts Plugin:
 **a.** Zip the plugin files (including the main PHP file and the CSS file).
 **b.** Go to the WordPress admin dashboard, then navigate to **Plugins > Add New > Upload Plugin**.
